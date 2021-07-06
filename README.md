@@ -6,5 +6,7 @@ A simple disease spread simulation in p5.js. It can be played
 * Spacebar to toggle showing infection radius
 * G to cycle between graph types
 * M to import scenario
+* P to pause simulation
 * R to reset the simulation
 * X to export scenario
+
